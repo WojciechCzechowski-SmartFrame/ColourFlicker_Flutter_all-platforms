@@ -109,3 +109,4 @@ flutter run
 ---
 
 8. When promted with device selection, select the one, that you intend to build the app for.
+  - if you want to build for mobile device and it is not on the list, make sure it is connected (physical) or booted up (virtual), and run the `flutter run` command once more
